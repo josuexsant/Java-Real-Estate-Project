@@ -1,0 +1,8 @@
+Direccion = San Lucas Mayo
+Edad = 30
+E-mail=juanso1oo3@gmail.com
+Fecha de contratacion = Fri May 06 11:44:33 CDT 2022
+ID = 100326022
+Nombre = Juan
+Nss = 20404
+RFC = JAODIEI2244

@@ -1,0 +1,8 @@
+Direccion = Geronimo, Las Animas Torrecillas
+Edad = 30
+E-mail=juapa_49@gmaiil.com
+Fecha de contratacion = Wed May 04 17:35:19 CDT 2022
+ID = 0
+Nombre = Juan Perez Mota
+Nss = 39103043
+RFC = JSMAKE493MF
