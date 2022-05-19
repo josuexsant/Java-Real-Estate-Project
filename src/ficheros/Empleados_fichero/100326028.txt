@@ -1,0 +1,10 @@
+
+ID Empleado: 100326028
+Nombre: JOse
+Edad: 30
+Direccion: Juanitos No 70
+E-mail: jose_djem@gmial.com
+Fecha de contratacion: Sat May 14 10:58:56 CDT 2022
+NSS: 292929393
+RFC: 3838fffff
+Puesto: agente

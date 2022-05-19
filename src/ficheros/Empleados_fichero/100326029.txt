@@ -1,0 +1,10 @@
+
+ID Empleado: 100326029
+Nombre: Juan Pablo Tomas
+Edad: 53
+Direccion: Calle Roma, No123
+E-mail: juapa_el@outlook.com
+Fecha de contratacion: Sat May 14 11:31:50 CDT 2022
+NSS: 29298484
+RFC: SANANSKK394
+Puesto: limpieza

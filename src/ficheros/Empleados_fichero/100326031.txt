@@ -1,0 +1,10 @@
+
+ID Empleado: 100326031
+Nombre: Juan Carlos Romero
+Edad: 0
+Direccion: San geronimo No 23
+E-mail: mke_laks@hotmal.com
+Fecha de contratacion: Tue May 17 15:55:21 CDT 2022
+NSS: 0
+RFC: 1203KkKS
+Puesto: gerente

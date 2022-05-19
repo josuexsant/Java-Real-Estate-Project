@@ -1,0 +1,10 @@
+
+ID Empleado: 100326027
+Nombre: Itzel Flores
+Edad: 19
+Direccion: Av. Rosas, No 84
+E-mail: iztel_flores@hotmail.com
+Fecha de contratacion: Sat May 14 10:22:55 CDT 2022
+NSS: 1939239383
+RFC: JFOSKFKSKS1223
+Puesto: limpieza

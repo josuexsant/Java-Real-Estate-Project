@@ -1,0 +1,10 @@
+
+ID Empleado: 100326024
+Nombre: Geovani Sanchez Goomez
+Edad: 30
+Direccion: San Geromino 40
+E-mail: geo_lome@outlook.com
+Fecha de contratacion: Fri May 13 09:25:53 CDT 2022
+NSS: 399929340
+RFC: GOMSD299944
+Puesto: abogado

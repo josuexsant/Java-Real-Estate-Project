@@ -1,0 +1,10 @@
+
+ID Empleado: 100326026
+Nombre: Maricela Rodriguez Zacarias
+Edad: 30
+Direccion: Santa Clara Rulfinos No. 23
+E-mail: marc_lam@gmail.com
+Fecha de contratacion: Fri May 13 09:50:19 CDT 2022
+NSS: 93948484
+RFC: MADFK230944
+Puesto: agente

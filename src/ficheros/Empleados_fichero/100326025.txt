@@ -1,0 +1,10 @@
+
+ID Empleado: 100326025
+Nombre: Scarlett Iztel Xochicale Flores
+Edad: 19
+Direccion: San  Clauidiio M3 l. 34
+E-mail: itzel_xochi@gmail.com
+Fecha de contratacion: Fri May 13 09:30:09 CDT 2022
+NSS: 148837473
+RFC: IZAJMSND0129394
+Puesto: agente

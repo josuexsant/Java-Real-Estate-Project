@@ -1,0 +1,10 @@
+
+ID Empleado: 100326032
+Nombre: Matias Sosa Tapia
+Edad: 24
+Direccion: Portoalegre No 45
+E-mail: tapiatap@gmail.com
+Fecha de contratacion: Tue May 17 21:44:44 CDT 2022
+NSS: 199948485
+RFC: MATPSLSFFK334
+Puesto: valuador

@@ -1,0 +1,10 @@
+
+ID Empleado: 100326023
+Nombre: Alberto Josue Santamaria Morales
+Edad: 21
+Direccion: Portoalegre No 6
+E-mail: josuexsanta@gmail.com
+Fecha de contratacion: Fri May 13 00:31:01 CDT 2022
+NSS: 174546541
+RFC: SAMADKFF1546
+Puesto: valuador

@@ -1,0 +1,10 @@
+
+ID Empleado: 100326030
+Nombre: Mario
+Edad: 34
+Direccion: San Francisco 34
+E-mail: mairo_23@gmail.com
+Fecha de contratacion: Mon May 16 07:49:20 CDT 2022
+NSS: 91919393
+RFC: JSJSJEKE
+Puesto: gerente

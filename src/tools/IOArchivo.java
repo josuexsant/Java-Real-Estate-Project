@@ -7,11 +7,8 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 import java.io.PrintStream;
-import java.io.PrintWriter;
 
 import javax.swing.JOptionPane;
 
@@ -32,6 +29,7 @@ public class IOArchivo {
 		}
 		JOptionPane.showMessageDialog(null, info);
 	}
+	
 	public static void escribe(OutputStream os, String archivo) throws IOException {
 		File file = new File(archivo);
 		PrintStream ps = new PrintStream(os);
@@ -50,19 +48,19 @@ public class IOArchivo {
 	}
 	
 	public static void imprimirPantalla(String archivo) throws IOException {
-		File file = new File(archivo);
-		try {
-			FileInputStream is	= new FileInputStream(file);
-			InputStreamReader fir = new InputStreamReader(is);
-			BufferedReader buffer = new BufferedReader(fir);
-		String linea = buffer.readLine();
-		while (linea != null) {
-			System.out.println(linea);
-			linea = buffer.readLine();
+			File file = new File(archivo);
+			try {
+				FileInputStream is	= new FileInputStream(file);
+				InputStreamReader fir = new InputStreamReader(is);
+				BufferedReader buffer = new BufferedReader(fir);
+			String linea = buffer.readLine();
+			while (linea != null) {
+				System.out.println(linea);
+				linea = buffer.readLine();
+				}
+			} catch (FileNotFoundException e) {
+				JOptionPane.showMessageDialog(null, "Archivo no existente");
 			}
-		} catch (FileNotFoundException e) {
-			JOptionPane.showMessageDialog(null, "Archivo no existente");
-		}
 	}
 		
 	public void eliminar(String archivo) {
@@ -75,17 +73,24 @@ public class IOArchivo {
 	}
 	
 	public static void salvarObjeto(Empleado empleado) throws NumberFormatException, IOException{
-		File file = new File("./ficheros/Empleados_fichero/" + empleado.getNombre() + ".txt");
+		File file = new File("./ficheros/Empleados_fichero/" + empleado.getId() + ".txt");
 		FileOutputStream os = new FileOutputStream(file);
 		PrintStream ps = new PrintStream(os);
 		ps.println(empleado.toString());
 	}
 	
 	public static void salvarObjeto(Cliente cliente) throws FileNotFoundException{
-		File file = new File("./ficheros/Empleados_fichero/" + cliente.getNombre() + ".txt");
+		File file = new File("./ficheros/Empleados_fichero/" + cliente.getIdCliente() + ".txt");
 		FileOutputStream os = new FileOutputStream(file);
 		PrintStream ps = new PrintStream(os);
 		ps.println(cliente.toString());
+	}
+	
+	public static void salvarObjeto(Inmueble inmueble) throws FileNotFoundException{
+		File file = new File("./ficheros/Empleados_fichero/" + inmueble.getID() + ".txt");
+		FileOutputStream os = new FileOutputStream(file);
+		PrintStream ps = new PrintStream(os);
+		ps.println(inmueble.toString());
 	}
 	
 }
